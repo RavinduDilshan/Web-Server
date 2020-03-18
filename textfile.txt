@@ -1,0 +1,5 @@
+Web development comes with a huge set of rules and techniques every website developer should know about. If you want a website to look and function as you wish them to, you need to get familiar with web technologies that will help you achieve your goal.
+
+Developing an app or a website typically comes down to knowing 3 main languages: JavaScript, CSS, and HTML. And while it sounds quite complicated, once you know what you are doing, understanding web technology and the way it works becomes significantly easier.
+
+We present you with an introduction to web technologies and the latest web technologies list hoping it will make things at least a bit easier for you. Now, let’s take a look.
